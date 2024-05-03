@@ -32,7 +32,10 @@
 $ npm install
 ```
 
-## Running the app
+## Rotas insomnia
+- Clicar no botão abaixo
+
+  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Farm%C3%A1cia&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDhessyca01%2Fprojeto_final_bloco_02%2F03_CRUD_Produto_Relacionamento%2Finsomnia%2Fprojetofinal_bloco_02)
 
 ```bash
 # development
